@@ -9,7 +9,6 @@ streamlit.text('omega 3 & Blueberry Oatmeal')
 streamlit.text('Kale,spinch & Rocket Smoothie')
 streamlit.text('Hard-Blood Free-Range Egg')
 
-streamlit.title('My Mom's New Heathly Diner')
                 
                 
    import streamlit
