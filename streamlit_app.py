@@ -11,4 +11,6 @@ streamlit.text('Hard-Blood Free-Range Egg')
 
 streamlit.title('My Mom's New Heathly Diner')
                 
-                streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
+                
+   import streamlit
+             
